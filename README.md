@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Aws Alwadi 👋
 
-<!--
-**AwsAlwadi/Awsalwadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Computer Engineering** student at **King Saud University**
+- 💻 Currently building my skills in **Python** and **Java**
+- 🎯 Passionate about software development, problem-solving, and technology
+- 🚀 Always eager to learn and apply academic concepts into real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools:
+- **Languages:** Python, Java
+- **IDEs & Tools:** PyCharm, NetBeans, Git & GitHub
+
+---
+
+### 📫 Connect with me:
+- **Email:** [awsalwadi0@gmail.com]
